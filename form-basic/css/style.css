@@ -169,4 +169,5 @@ button[type="submit"]{
 }
 select{
     margin: none;
+    outline: none;
 }
